@@ -1,18 +1,25 @@
-### Hi there 👋
+### About Me
 
-<!--
-**liangyepianzhou/liangyepianzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓 First-year master student at [Chongqing University of Posts and Telecommunications](https://www.cqupt.edu.cn/)** **Majoring in Information Engineering**
 
-Here are some ideas to get you started:
+**📫 Email: xiangying@apache.org**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**☎️ Search the xy_pulsar in WeChat to add me**
 
-![Tuteng's github stats](https://github-readme-stats.vercel.app/api?username=liangyepianzhou&show_icons=true&theme=tokyonight&count_private=true)
+### Community Contributions
+
+#### 🚀 [Apache Pulsar](https://github.com/apache/pulsar/pulls/liangyepianzhou)
+
+- [PIP-196 TransactionBuffer Multiple-snapshots](https://github.com/apache/pulsar/issues/16913)
+- [PIP-163 Add lowWaterMark check before appending entry to TB](https://github.com/apache/pulsar/issues/15423)
+- [PIP-153 Optimize metadataPositions in MLPendingAckStore](https://github.com/apache/pulsar/issues/15073)
+
+
+<!-- START NEW SECTION -->
+<p align="left">
+ <h2 align="left">My Github Stats</h2>
+                                                                                                  
+![github stats](https://github-readme-stats.vercel.app/api?username=liangyepianzhou&theme=dark&show_icons=true) |
+
+
+![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=liangyepianzhou&theme=react-dark)
