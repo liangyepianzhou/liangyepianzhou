@@ -1,6 +1,6 @@
 ### About Me
 
-**🎓 First-year master student at [Chongqing University of Posts and Telecommunications](https://www.cqupt.edu.cn/)** **Majoring in Information Engineering**
+**🎓 19th grade undergraduate student at [Chongqing University of Posts and Telecommunications](https://www.cqupt.edu.cn/)** **Majoring in Information Engineering**
 
 **📫 Email: xiangying@apache.org**
 
@@ -19,7 +19,7 @@
 <p align="left">
  <h2 align="left">My Github Stats</h2>
                                                                                                   
-![github stats](https://github-readme-stats.vercel.app/api?username=liangyepianzhou&theme=dark&show_icons=true) |
+![github stats](https://github-readme-stats.vercel.app/api?username=liangyepianzhou&theme=dark&show_icons=true) 
 
 
 ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=liangyepianzhou&theme=react-dark)
