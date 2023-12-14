@@ -14,12 +14,3 @@
 - [PIP-163 Add lowWaterMark check before appending entry to TB](https://github.com/apache/pulsar/issues/15423)
 - [PIP-153 Optimize metadataPositions in MLPendingAckStore](https://github.com/apache/pulsar/issues/15073)
 
-
-<!-- START NEW SECTION -->
-<p align="left">
- <h2 align="left">My Github Stats</h2>
-                                                                                                  
-![github stats](https://github-readme-stats.vercel.app/api?username=liangyepianzhou&theme=dark&show_icons=true) 
-
-
-![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=liangyepianzhou&theme=react-dark)
